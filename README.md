@@ -8,8 +8,7 @@
 ---
 
 ## 🚀 Projects
-- 📊 [Insurance fraud analysis](#)  
- 
+- 📊 [Insurance Fraud Analysis](https://github.com/Palakpreet-kaur1/Insurance_Claims_Analysis)
 
 ---
 
@@ -19,11 +18,10 @@
 - **Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib 
 - **Other Tools:** Git, DBeaver, Excel, PowerPoint, MySQL, SQLite
 
-
 ---
 
 ## 🌐 Connect with Me
-- 💼 [www.linkedin.com/in/palakpreet-kaur-gill](#)  
+- 💼 [Linkedin](www.linkedin.com/in/palakpreet-kaur-gill)
 - 📧 Email: palakpreetk.gill@email.com  
 
 ---
