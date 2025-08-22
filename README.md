@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Palakpreet Kaur 👋
 
-<!--
-**Palakpreet-kaur1/Palakpreet-kaur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Machine Learning Student at **Red River College Polytechnic**  
+🔍 Passionate about turning data into actionable insights using **Python, SQL, MS Excel and Power BI**  
+💡 Interested in **Data Analysis, Data engineering, and Data Visualization**  
+🌱 Currently exploring **Advanced SQL (CTEs, Window Functions) & Deep Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📊 [Insurance fraud analysis](#)  
+ 
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL 
+- **Visualization:** Power BI, Tableau
+- **Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib 
+- **Other Tools:** Git, DBeaver, Excel, PowerPoint, MySQL, SQLite
+
+
+---
+
+## 🌐 Connect with Me
+- 💼 [www.linkedin.com/in/palakpreet-kaur-gill](#)  
+- 📧 Email: palakpreetk.gill@email.com  
+
+---
+
+✨ *“Data is a story waiting to be told — I enjoy discovering the patterns that matter.”*  
