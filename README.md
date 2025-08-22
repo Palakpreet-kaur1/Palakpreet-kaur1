@@ -21,7 +21,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [Linkedin](www.linkedin.com/in/palakpreet-kaur-gill)
+- 💼 [Linkedin](www.linkedin.com/in/palakpreet-kaur-gill/)
 - 📧 Email: palakpreetk.gill@email.com  
 
 ---
