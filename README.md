@@ -1,6 +1,6 @@
 # Hi, I'm Palakpreet Kaur 👋
 
-🎓 Data Science & Machine Learning Student at **Red River College Polytechnic**  
+🎓 Data Science & Machine Learning graduate from **Red River College Polytechnic**  
 🔍 Passionate about turning data into actionable insights using **Python, SQL, MS Excel and Power BI**  
 💡 Interested in **Data Analysis, Data engineering, and Data Visualization**  
 🌱 Currently exploring **Advanced SQL (CTEs, Window Functions) & Deep Learning**  
