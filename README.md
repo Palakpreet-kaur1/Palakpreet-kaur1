@@ -10,6 +10,7 @@
 ## 🚀 Projects
 - 📊 [Insurance Fraud Analysis](https://github.com/Palakpreet-kaur1/Insurance_Claims_Analysis)
 - 📊 [McDonald Reviews analysis](https://github.com/Palakpreet-kaur1/Topic-Modelling)
+- 📊 [Arabic digits autoenconding](https://github.com/Palakpreet-kaur1/Autoencoders)
 ---
 
 ## 🛠️ Skills & Tools
