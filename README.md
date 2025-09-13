@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 - 📊 [Insurance Fraud Analysis](https://github.com/Palakpreet-kaur1/Insurance_Claims_Analysis)
-
+- 📊 [McDonald Reviews analysis](https://github.com/Palakpreet-kaur1/Topic-Modelling)
 ---
 
 ## 🛠️ Skills & Tools
